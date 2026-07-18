@@ -39,6 +39,5 @@ While this is primarily my learning repo, I'm open to:
 
 "Data science: where ‘I’m just experimenting’ sounds cooler than ‘I have no idea what I’m doing.’ 😎📉 (Spoiler: It’s both!)"
 
-Happy Learning!📚
-
+📚Happy Learning!
 💻[Ekta Ghule]
