@@ -1,2 +1,0 @@
-data_products['id'] = data_products['id'].astype(object) # Convert the 'id' column in the products DataFrame to object format
-print(data_products.head()) # Display the first few rows of the updated products DataFrame after converting the 'id' column to object format.
